@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>技术小记</title>
+  
+  <subtitle>The slogan</subtitle>
+  <link href="http://czlblog.top/atom.xml" rel="self"/>
+  
+  <link href="http://czlblog.top/"/>
+  <updated>2020-10-27T15:20:51.229Z</updated>
+  <id>http://czlblog.top/</id>
+  
+  <author>
+    <name>Mr Chen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>web前端基础回顾</title>
+    <link href="http://czlblog.top/2020/10/27/web-qian-duan-ji-chu-hui-gu/"/>
+    <id>http://czlblog.top/2020/10/27/web-qian-duan-ji-chu-hui-gu/</id>
+    <published>2020-10-27T13:10:21.000Z</published>
+    <updated>2020-10-27T15:20:51.229Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;css基础&quot;&gt;&lt;a href=&quot;#css基础&quot; class=&quot;headerlink&quot; title=&quot;css基础&quot;&gt;&lt;/a&gt;css基础&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="web前端基础" scheme="http://czlblog.top/categories/web%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="css" scheme="http://czlblog.top/tags/css/"/>
+    
+    <category term="js" scheme="http://czlblog.top/tags/js/"/>
+    
+    <category term="html" scheme="http://czlblog.top/tags/html/"/>
+    
+  </entry>
+  
+</feed>
