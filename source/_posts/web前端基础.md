@@ -1,3 +1,4 @@
+---
 title: web前端基础回顾
 toc: true
 mathjax: true
@@ -14,6 +15,7 @@ cover:
 coverImg:
 top:
 img:
+---
 
 # webstorm工具的使用 
 
