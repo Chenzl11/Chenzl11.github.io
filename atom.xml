@@ -6,7 +6,7 @@
   <link href="http://czlblog.top/atom.xml" rel="self"/>
   
   <link href="http://czlblog.top/"/>
-  <updated>2020-11-10T08:38:03.832Z</updated>
+  <updated>2020-11-19T12:44:43.270Z</updated>
   <id>http://czlblog.top/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jQuery</title>
+    <link href="http://czlblog.top/2020/11/12/jquery/"/>
+    <id>http://czlblog.top/2020/11/12/jquery/</id>
+    <published>2020-11-12T13:10:21.000Z</published>
+    <updated>2020-11-19T12:44:43.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;jQuery&quot;&gt;&lt;a href=&quot;#jQuery&quot; class=&quot;headerlink&quot; title=&quot;jQuery&quot;&gt;&lt;/a&gt;jQuery&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="jQuery" scheme="http://czlblog.top/categories/jQuery/"/>
+    
+    
+    <category term="js" scheme="http://czlblog.top/tags/js/"/>
+    
+    <category term="jQuery" scheme="http://czlblog.top/tags/jQuery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript</title>
+    <link href="http://czlblog.top/2020/11/11/javascript/"/>
+    <id>http://czlblog.top/2020/11/11/javascript/</id>
+    <published>2020-11-11T13:10:21.000Z</published>
+    <updated>2020-11-18T16:32:51.590Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;JavaScript&quot;&gt;&lt;a href=&quot;#JavaScript&quot; class=&quot;headerlink&quot; title=&quot;JavaScript&quot;&gt;&lt;/a&gt;JavaScript&lt;/h1&gt;&lt;h2 id=&quot;变量-let&quot;&gt;&lt;a href=&quot;#变量-let&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="http://czlblog.top/categories/JavaScript/"/>
+    
+    
+    <category term="js" scheme="http://czlblog.top/tags/js/"/>
+    
+  </entry>
   
   <entry>
     <title>web前端基础回顾</title>
@@ -39,9 +91,9 @@
     <category term="web前端基础" scheme="http://czlblog.top/categories/web%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="css" scheme="http://czlblog.top/tags/css/"/>
-    
     <category term="js" scheme="http://czlblog.top/tags/js/"/>
+    
+    <category term="css" scheme="http://czlblog.top/tags/css/"/>
     
     <category term="html" scheme="http://czlblog.top/tags/html/"/>
     
